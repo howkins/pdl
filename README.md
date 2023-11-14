@@ -1,6 +1,6 @@
 # Pensoft Data Links (PDL)
 Search and linked from many resources like (gbif, plutof, idigbio, ncbi, bhl, wikidata, wikimedia, openbiodiv, boldsystem)
-We check and authorize from checklistbank for rank.
+We check and authorize from checklistbank by rank.
 
 ## Example links
 
